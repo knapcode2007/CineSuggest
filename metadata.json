@@ -1,0 +1,6 @@
+{
+  "name": "CineSuggest",
+  "description": "Personalized movie discovery and recommendation platform powered by algorithmic curation and AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
